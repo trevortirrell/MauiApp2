@@ -11,6 +11,7 @@
 
 		<!-- Added for Resx-->
 		<GenerateSatelliteAssembliesForCore>true</GenerateSatelliteAssembliesForCore>
+		<!--<EnableAssemblyILStrippin>false</EnableAssemblyILStrippin>-->
 		
 		<!-- Display name -->
 		<ApplicationTitle>MauiApp2</ApplicationTitle>
